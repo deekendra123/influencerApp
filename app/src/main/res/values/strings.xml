@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">influencerApp</string>
+
+
+    <string name="text_login_title">Welcome Back!</string>
+    <string name="text_title1">Click on below button</string>
+    <string name="text_add_caption">Add caption</string>
+
+    <string name="text_new_post">New Post</string>
+    <string name="text_google_login">Sign in with Google</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

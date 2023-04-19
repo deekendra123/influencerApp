@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "580595756890",
+    "firebase_url": "https://fitnytech-influencerapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fitnytech-influencerapp",
+    "storage_bucket": "fitnytech-influencerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580595756890:android:869ec9c2fcd6ac9e600d63",
+        "android_client_info": {
+          "package_name": "com.fitnytech.influencerApp.development"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580595756890-33ubujveqtme9rs6hhqtc6a9jh0uig86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fitnytech.influencerApp.development",
+            "certificate_hash": "325b296b64e1220558153c4524a2e04251cf0b10"
+          }
+        },
+        {
+          "client_id": "580595756890-qpn36kfsbnmi48t55fn70mnq8t8c8fc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fitnytech.influencerApp.development",
+            "certificate_hash": "cda7e1de9c2483ef579414bcffb88e65a8f443b3"
+          }
+        },
+        {
+          "client_id": "580595756890-4td91emj020hfi5cqv9mlag49i9i63up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_L1KKdy4JnqbQM-AokE_3a929VoLqCL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580595756890-4td91emj020hfi5cqv9mlag49i9i63up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
